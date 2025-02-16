@@ -26,6 +26,9 @@ DivineWindow.Constants.WindowPart = {
     PART_7 = "PART_7",
     PART_8 = "PART_8",
     PART_9 = "PART_9",
+    PART_10 = "PART_10",
+    PART_11 = "PART_11",
+    PART_12 = "PART_12",
     FX_1 = "FX_1",
     FX_2 = "FX_2",
 }
