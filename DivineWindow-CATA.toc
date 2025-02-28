@@ -21,10 +21,9 @@
 ## X-Date: @build-date@
 ## X-ResetVarsDate: 2024-10-21T00:00:00Z
 ## X-License: All Rights Reserved
-## X-Website: https://www.curseforge.com/wow/addons/divine-window
 
+## X-Website: https://www.curseforge.com/wow/addons/divine-window
 ## X-Curse-Project-ID: 1076890
-## X-Wago-ID: aNDmeJ6o
 
 Src/Init.lua
 Src/Constants/Index.xml
