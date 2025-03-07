@@ -4,8 +4,8 @@
 ## Notes: a non-typical configurable interface using stained glass design
 ## Notes-enEN: a non-typical configurable interface using stained glass design
 
-## Interface: 11504
-## X-Min-Interface: 11504
+## Interface: 20504
+## X-Min-Interface: 20504
 
 ## Version: @project-version@
 ## IconTexture: Interface\AddOns\DivineWindow\addonIcon.jpg

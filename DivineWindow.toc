@@ -25,6 +25,8 @@
 ## X-Website: https://www.curseforge.com/wow/addons/divine-window
 ## X-Curse-Project-ID: 1076890
 
+## OptionalDependencies: DivineWindow_Enemies, DivineWindow_Paladin
+
 Src/Init.lua
 Src/Constants/Index.xml
 Src/Support/Index.xml
